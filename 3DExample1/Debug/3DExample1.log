@@ -1,0 +1,41 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1069,5): warning MSB8027: Two or more files with the name of GLee.c will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\GLee.c, ..\shared\GLee.c.
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  tutorial9_textures.cpp
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(100,21): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(100,18): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(100,15): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(120,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(301,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(354,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(389,21): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(427,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(434,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(434,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(436,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(436,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(438,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(438,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(440,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(440,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(452,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(478,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(519,23): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(684,55): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(684,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(689,55): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(689,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(694,55): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(694,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(699,55): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(699,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(704,55): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(704,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(709,55): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(709,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(714,55): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(714,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(719,55): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(719,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(774,23): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\tutorial9_textures.cpp(892,22): warning C4805: '==': unsafe mix of type 'BOOLEAN' and type 'bool' in operation
+  3DExample1.vcxproj -> D:\IIT\Second year\3D graphics programming\CW2\Textures Tutorial\Textures Tutorial\Debug\3DExample1.exe
